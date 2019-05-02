@@ -1,4 +1,4 @@
 **This branch contains test code used to test the pocketsphinx library this in no way/shape or form is conform the R2D2 guidelines. just for provability**
 
 This code is used tot test pocket sphinx on a raspberry pi and was demonstrated 17-apr.
-To use this test clone this repo with the `--recursive ` flag to get pocket sphinx and sphinx base as well. then follow [this]([https://cmusphinx.github.io/wiki/tutorialpocketsphinx/](https://cmusphinx.github.io/wiki/tutorialpocketsphinx/)) tutorial to instal it on your raspberry. After installing and adding to your path run `make build` in this folder to compile the main.c used for this test then run `make run` to run the test. 
+To use this test clone this repo with the `--recursive ` flag to get pocket sphinx and sphinx base as well. then follow [this](https://cmusphinx.github.io/wiki/tutorialpocketsphinx/) tutorial to instal it on your raspberry. After installing and adding to your path run `make build` in this folder to compile the main.c used for this test then run `make run` to run the test. 
